@@ -1,0 +1,1 @@
+Romskipets hastighet langs x-aksen er 0.9400 ganger lyshastigheten.Tiden mellom utsendelse av strålene er 0.00020 sekunder målt i bakkesystemet.

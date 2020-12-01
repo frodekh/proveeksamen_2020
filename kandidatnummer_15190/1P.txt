@@ -1,0 +1,1 @@
+Partiklene har hastighetskomponent langs synsretningen som er Gaussisk fordelt med gjennomsnittsverdi på 100 m/s i retning mot deg

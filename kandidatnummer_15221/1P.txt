@@ -1,0 +1,1 @@
+Alle partiklene har hastighetskomponent kun langs synsretningen som er enten 100 m/s mot deg eller fra deg (like mange i hver retning)
