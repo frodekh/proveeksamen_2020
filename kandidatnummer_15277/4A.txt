@@ -1,1 +1,1 @@
-Stjernas masse er 1.20 solmasser.Stjernas radius er 0.43 solradier.
+Stjernas masse er 5.71600 solmasser.Stjernas radius er 0.8096666667 solradier.
