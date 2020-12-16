@@ -1,1 +1,1 @@
-Massen til det sorte hullet er 3.35 solmasser.r-koordinaten til det innerste romskipet er r = 10.08 km.r-koordinaten til det innerste romskipet er r = 18.63 km.
+Massen til det sorte hullet er 3.35 solmasser.r-koordinaten til det innerste romskipet er r = 10.08 km.r-koordinaten til det ytterste romskipet er r = 18.63 km.
